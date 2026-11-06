@@ -1,0 +1,6 @@
+{
+  "name": "دار الأواني المغربية | Dar El Awani",
+  "description": "متجر مغربي إلكتروني راقي لبيع أواني الطهي، الكوكوط، أجهزة المطبخ، مستلزمات المائدة وطواقم الشاي مع الدفع عند الاستلام وخدمة التوصيل السريع لجميع مدن المغرب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
